@@ -5,6 +5,8 @@
 --
 --
 -- GNU LGPL, see https://www.gnu.org/copyleft/lesser.html
+-- @TODO : add support for acceleration
+--         
 -- ******************************************************
 
 MMA7660= {}
